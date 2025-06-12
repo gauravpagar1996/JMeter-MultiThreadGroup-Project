@@ -26,8 +26,7 @@ It includes multiple Thread Groups within a single `.jmx` file to represent the 
 
 ## 📂 Project Structure
 - `PerformanceTestingPlan.jmx` – Main JMeter test plan with all test scenarios
-- `Results/` – Contains output result files (CSV)
-- `Summary/` – Optional comparison reports or charts
+- `Results/` – Contains output result files
 
 ## 📌 Notes
 - Created as part of my **learning phase in Performance Testing**.
@@ -35,7 +34,7 @@ It includes multiple Thread Groups within a single `.jmx` file to represent the 
 
 ## 🔗 Tools Used
 - Apache JMeter
-- Summary Report & Aggregate Report listeners
+- Aggregate Report listeners
 
 ## 👨‍💻 Author
 Gaurav Prakash Pagar
